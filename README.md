@@ -16,6 +16,9 @@ https://praktikum.yandex.ru/profile/backend-developer/
 https://hexlet.io
 
 
+*Frameworks*
+https://sanic.readthedocs.io/en/latest/
+
 *SQL*
 
 trainers:
