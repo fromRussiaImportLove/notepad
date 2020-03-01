@@ -8,6 +8,7 @@ books:
 Бэрри П. - Изучаем программирование на Python (Мировой компьютерный бестселлер) - 2017
 Дронов В.А. - Django 2.1 Практика создания веб-сайтов на Python (Профессиональное программирование) - 2019
 Mark Lutz - Learning Python, 5th Edition - 2013
+https://simpleisbetterthancomplex.com/archive/
 
 trainers:
 
@@ -16,7 +17,7 @@ https://praktikum.yandex.ru/profile/backend-developer/
 https://hexlet.io
 https://www.codecademy.com/catalog/subject/programming
 https://htmlacademy.ru/courses
-
+https://www.codewars.com/
 
 *Frameworks*
 https://docs.djangoproject.com/en/3.0/
