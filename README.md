@@ -18,6 +18,7 @@ https://hexlet.io
 https://www.codecademy.com/catalog/subject/programming
 https://htmlacademy.ru/courses
 https://www.codewars.com/
+https://www.freecodecamp.org/learn/
 
 *Frameworks*
 https://docs.djangoproject.com/en/3.0/
