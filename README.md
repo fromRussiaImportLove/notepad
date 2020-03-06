@@ -9,6 +9,7 @@ books:
 Дронов В.А. - Django 2.1 Практика создания веб-сайтов на Python (Профессиональное программирование) - 2019
 Mark Lutz - Learning Python, 5th Edition - 2013
 https://simpleisbetterthancomplex.com/archive/
+https://awesomelists.top/#repos/humiaozuzu/awesome-flask
 
 trainers:
 
