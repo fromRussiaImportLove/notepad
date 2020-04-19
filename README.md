@@ -42,7 +42,7 @@ http://sql-ex.ru
 *Pattern*
 https://en.wikipedia.org/wiki/Software_design_pattern
 https://www.amazon.com/o/asin/0201633612
-
+https://12factor.net/ru/
 
 
 
