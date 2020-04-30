@@ -1,15 +1,15 @@
 # notepad
 There useful links for technology which i have learnt or want to learn.
 
-*Python*
+## **Python**
 
 books:
 
-Бэрри П. - Изучаем программирование на Python (Мировой компьютерный бестселлер) - 2017
-Дронов В.А. - Django 2.1 Практика создания веб-сайтов на Python (Профессиональное программирование) - 2019
-Mark Lutz - Learning Python, 5th Edition - 2013
-https://simpleisbetterthancomplex.com/archive/
-https://awesomelists.top/#repos/humiaozuzu/awesome-flask
+* Бэрри П. - Изучаем программирование на Python (Мировой компьютерный бестселлер) - 2017
+- Дронов В.А. - Django 2.1 Практика создания веб-сайтов на Python (Профессиональное программирование) - 2019
+* Mark Lutz - Learning Python, 5th Edition - 2013
+* https://simpleisbetterthancomplex.com/archive/
+* https://awesomelists.top/#repos/humiaozuzu/awesome-flask
 
 trainers:
 
