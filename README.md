@@ -45,6 +45,10 @@ https://www.amazon.com/o/asin/0201633612
 https://12factor.net/ru/
 
 
+### patterns/arc
+https://refactoring.guru/ru/design-patterns/creational-patterns
+https://melevir.medium.com/?source=post_page-----dbd50b2ec2b8--------------------------------
+
 
 ****
 FRONT
