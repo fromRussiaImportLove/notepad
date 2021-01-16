@@ -10,11 +10,14 @@ sql alchemy []
 
 ### clean code
 - flake8-addons []
+  - flake8-cognitive-complexity поможет с проверкой когнитивной сложности. О разнице между цикломатической и когнитивной сложностями можно почитать в ридми.
+  - flake8-functions провалидирует длину функций и количество аргументов.
+  - flake8-annotations-complexity проверит сложность аннотаций типов.
 - mypy []
 
 ### test/debug
 - django debug toolbar [x]
-- pytest []
+- pytest https://docs.pytest.org/en/stable/contents.html 
 
 ### django
 - signals []
