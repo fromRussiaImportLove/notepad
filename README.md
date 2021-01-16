@@ -26,28 +26,33 @@ https://docs.djangoproject.com/en/3.0/
 https://sanic.readthedocs.io/en/latest/
 
 
-*SQL*
+## *SQL*
 
 trainers:
 http://sql-ex.ru
 
+
+## CI
+- https://docs.github.com/en/actions/learn-github-actions/introduction-to-github-actions
+
+
+## patterns/arc
+- https://refactoring.guru/ru/design-patterns/creational-patterns
+- https://melevir.medium.com/?source=post_page-----dbd50b2ec2b8--------------------------------
+
 *General*
-"Чарльз Петцольд — Код. Тайный язык информатики" — это отличная книга для людей любого уровня, даже не являющихся программистами, но увлечённых технологиями.
-"Н. Поликарпова, А. Шалыто — Автоматное программирование" — по теме конечных автоматов. Тоже достаточно легко читается и даёт повод для размышлений, но лучше совмещать изучение автоматов пополам с их реализацией. 
-"Грокаем алгоритмы"
+- "Чарльз Петцольд — Код. Тайный язык информатики" — это отличная книга для людей любого уровня, даже не являющихся программистами, но увлечённых технологиями.
+- "Н. Поликарпова, А. Шалыто — Автоматное программирование" — по теме конечных автоматов. Тоже достаточно легко читается и даёт повод для размышлений, но лучше совмещать изучение автоматов пополам с их реализацией. 
+- "Грокаем алгоритмы"
 
 "объектно ориентированное мышление", затем банду 4х и "чистый код"
 "fluent python" и "чистый питон".
 
+
 *Pattern*
-https://en.wikipedia.org/wiki/Software_design_pattern
-https://www.amazon.com/o/asin/0201633612
-https://12factor.net/ru/
-
-
-### patterns/arc
-https://refactoring.guru/ru/design-patterns/creational-patterns
-https://melevir.medium.com/?source=post_page-----dbd50b2ec2b8--------------------------------
+- https://en.wikipedia.org/wiki/Software_design_pattern
+- https://www.amazon.com/o/asin/0201633612
+- https://12factor.net/ru/
 
 
 ****
