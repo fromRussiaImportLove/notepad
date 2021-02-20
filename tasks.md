@@ -14,6 +14,11 @@ sql alchemy []
   - flake8-functions провалидирует длину функций и количество аргументов.
   - flake8-annotations-complexity проверит сложность аннотаций типов.
 - mypy []
+- black
+
+### deployment
+- poetry []
+- pipenv [x]
 
 ### test/debug
 - django debug toolbar [x]
