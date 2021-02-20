@@ -17,8 +17,8 @@ sql alchemy []
 - black
 
 ### deployment
-- poetry []
-- pipenv [x]
+- [] poetry 
+- [x] pipenv 
 
 ### test/debug
 - django debug toolbar [x]
