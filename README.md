@@ -34,6 +34,7 @@ http://sql-ex.ru
 
 ## CI
 - https://docs.github.com/en/actions/learn-github-actions/introduction-to-github-actions
+- https://habr.com/ru/company/softmart/blog/310502/
 
 
 ## patterns/arc
