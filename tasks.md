@@ -13,13 +13,14 @@
   - [ ] flake8-annotations-complexity проверит сложность аннотаций типов.
 - [ ] mypy -- в частности нотация типов
 - [ ] black
+- [ ] security: https://soshace.com/how-to-secure-python-web-app-using-bandit/
 
 ### deployment
 - [ ] poetry 
 - [x] pipenv 
 
 ### test/debug
-- [ ] django debug toolbar
+- [x] django debug toolbar
 - [ ] pytest https://docs.pytest.org/en/stable/contents.html 
 
 ### django
