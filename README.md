@@ -10,6 +10,7 @@ books:
 * Mark Lutz - Learning Python, 5th Edition - 2013
 * https://simpleisbetterthancomplex.com/archive/
 * https://awesomelists.top/#repos/humiaozuzu/awesome-flask
+* путь питониста (чего бы еще развить)  https://www.notion.so/cf2566970f7e4d39801af2182cb9ea3b?v=dc74a6df90a24a958c7f7d5e16bb83cc
 
 trainers:
 
