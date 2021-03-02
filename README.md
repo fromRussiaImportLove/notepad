@@ -40,6 +40,8 @@ http://sql-ex.ru
 ## patterns/arc
 - https://refactoring.guru/ru/design-patterns/creational-patterns
 - https://melevir.medium.com/?source=post_page-----dbd50b2ec2b8--------------------------------
+- https://habr.com/ru/company/yandex/blog/499534/ разбор бекенда из соревнования 2019
+
 
 *General*
 - "Чарльз Петцольд — Код. Тайный язык информатики" — это отличная книга для людей любого уровня, даже не являющихся программистами, но увлечённых технологиями.
