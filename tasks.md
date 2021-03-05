@@ -5,6 +5,7 @@
 - [ ] asyns/await
 - [ ] websocket
 - [ ] sql alchemy
+- [ ] about migration 2.0 https://docs.sqlalchemy.org/en/14/changelog/migration_20.html
 
 ### clean code
 - [ ] flake8-addons
