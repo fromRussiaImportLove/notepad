@@ -22,6 +22,7 @@
 ### test/debug
 - [x] django debug toolbar
 - [ ] pytest https://docs.pytest.org/en/stable/contents.html 
+- [ ] logging: https://github.com/Delgan/loguru + syslog
 
 ### django
 - [ ] signals
