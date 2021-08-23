@@ -26,6 +26,11 @@ https://www.freecodecamp.org/learn/
 https://docs.djangoproject.com/en/3.0/
 https://sanic.readthedocs.io/en/latest/
 
+Dependency Injection
+https://punq.readthedocs.io/en/latest/index.html
+https://pypi.org/project/injector/
+https://github.com/proofit404/dependencies
+
 
 ## *SQL*
 
